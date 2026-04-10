@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Site.Title }}</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: #f4f8f4;
+      color: #1f2a1f;
+      line-height: 1.6;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 3rem;
+    }
+    h1, h2 {
+      color: #133a1a;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+      background: #fff;
+    }
+    th, td {
+      border: 1px solid #cfe0cf;
+      padding: 0.6rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #e9f3e9;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    {{ with .Site.GetPage "_index.md" }}
+      {{ .Content }}
+    {{ end }}
+  </main>
+</body>
+</html>

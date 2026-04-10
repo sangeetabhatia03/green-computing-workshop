@@ -1,0 +1,6 @@
+baseURL = 'https://<YOUR_GITHUB_USERNAME>.github.io/green-computing-workshop/'
+languageCode = 'en-gb'
+title = 'A (very) brief introduction to green computing practices'
+
+[params]
+  workshop_blurb = 'A practical introductory workshop covering simple, high-impact ways to reduce the environmental footprint of software and computational workflows.'
