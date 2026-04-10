@@ -27,3 +27,7 @@ This is an *in-person* event. If you wish to join, please email s.bhatia@imperia
 | 14:00-14:15 | Digital research sustainability considerations for researchers and HPC users | Christopher Cave-Ayland | Research Software Engineering Technical Lead, Research Computing Services, Imperial College London |
 | 14:20-14:35 | Checkpointing in an event-based simulation framework | Asif Tamuri | Principal Research Software Engineer, University College London |
 | 14:35-15:00 | Closing remarks | Sangeeta Bhatia | Research Fellow, Imperial College London |
+
+## Sponsors
+
+This event has been made possible due to the generous support of the Software Sustainability Institute.
