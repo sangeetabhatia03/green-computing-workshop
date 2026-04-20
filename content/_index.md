@@ -22,7 +22,7 @@ This is an *in-person* event. If you wish to join, please email s.bhatia@imperia
 | 10:30 | Welcome and coffee |  |  |
 | 10:45-11:15 | Introduction | Sangeeta Bhatia | Research Fellow, Imperial College London |
 | 11:15-11:30 | Introduction to green computing | Liz Ing-Simmons | Senior Research Software Engineer, King's College London |
-| 11:35-13:00 | Code profiling and optimisation | Jost Migenda | Senior Research Software Engineer, King's College London |
+| 11:35-13:00 | [Code profiling and optimisation](https://github.com/JostMigenda/20260420_pyr) | Jost Migenda | Senior Research Software Engineer, King's College London |
 | 13:00-14:00 | Lunch |  |  |
 | 14:00-14:15 | Digital research sustainability considerations for researchers and HPC users | Christopher Cave-Ayland | Research Software Engineering Technical Lead, Research Computing Services, Imperial College London |
 | 14:20-14:35 | Checkpointing in an event-based simulation framework | Asif Tamuri | Principal Research Software Engineer, University College London |
